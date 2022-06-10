@@ -1,6 +1,6 @@
 # lightweight-embedded-linux
 
-### This document explains how you build embedded Linux from scratch with Debian package management.
+# 이 문서는 Linux-From-Scrath 공식 문서를 활용하여 데비안 패키지매니저가 설치된 리눅스를 scratch부터 설치할 수 있도록 도와주는 가이드 문서입니다.
 
 
 # Table of Contents
